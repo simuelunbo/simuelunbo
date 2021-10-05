@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Android app developer
+### Hi 👋 I'm Android app developer
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simuelunbo&show_icons=true&theme=radical)
