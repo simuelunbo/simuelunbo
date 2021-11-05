@@ -3,9 +3,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simuelunbo&show_icons=true&theme=radical)
 
+### Contact me
+
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simuelunbo@gmail.com)](mailto:simuelunbo@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://destiny-rice-786.notion.site/Android-f59f4bbbaa9e4bfea02656972c7287e1)](https://destiny-rice-786.notion.site/Android-f59f4bbbaa9e4bfea02656972c7287e1)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://bit.ly/3brH9Ja)](https://bit.ly/3brH9Ja)
+  
+ ### Notion tech blog
+ 
+ [![Notion Badge](https://img.shields.io/badge/NotionTIL-000000?style=flat-square&logo=notion&logoColor=white&link=https://bit.ly/3brH9Ja)](https://bit.ly/3brH9Ja) 
+ #### Link: https://bit.ly/3brH9Ja
  
 
 
